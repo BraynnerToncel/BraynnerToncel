@@ -8,5 +8,5 @@ Habilidades: ANGULAR / REACT / JS / HTML / CSS / NGRX / BOOSTRAP / DOCKER
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/BraynnerToncel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/braynner-saul-silva-toncel-4923b2225//)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/BraynnerToncel)](https://github.com/anuraghazra/github-readme-stats)
+
 
