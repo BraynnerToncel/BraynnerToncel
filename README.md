@@ -1,12 +1,34 @@
-Hola 👋, my name is Braynner Silva
-Soy una persona responsable, persistente, comprometida, confuertes habilidades de trabajo en equipo y capacidad deadaptación a cualquier situación, siempre estoy dispuestoadquirir nuevos conocimientos
+### Hi, I'm Braynner 👨‍💻
+- Angular Lover!
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ¡My technologies!
+- JS.
+- CSS.
+- HTML.
+- SQL.
+- ANGULAR.
+- TYPESCRIPT.
+- NGRX.
+- GIT.
+- NGXS.
+- REACT.
+- DOCKER
+  
 
-Habilidades: ANGULAR / REACT / JS / HTML / CSS / NGRX / BOOSTRAP / DOCKER
 
-- 📫 Cómo contactarme: braynnert31@gmail.com  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebas15897&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/BraynnerToncel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/braynner-saul-silva-toncel-4923b2225//)  
+[instagram]: https://www.instagram.com/braynner31/
+[linkedin]: https://www.linkedin.com/in/braynner-saul-silva-toncel-4923b2225/
 
-
+### Connect with me:
+[<img align="left" alt="Sebastián_c | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sebastián_c | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sebastián_c | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+✉ braynnert31@gmail.com
 
