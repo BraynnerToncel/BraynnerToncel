@@ -11,7 +11,6 @@
 - NGRX.
 - GIT.
 - NGXS.
-- REACT.
 - DOCKER
   
 
