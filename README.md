@@ -6,7 +6,9 @@
 - CSS.
 - HTML.
 - SQL.
-- ANGULAR.
+- NODE.
+- EXPRESS.
+- NESTJS.
 - TYPESCRIPT.
 - NGRX.
 - GIT.
